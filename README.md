@@ -3,14 +3,26 @@ Desenvolvedora Front End<br>
 Estudando Desenvolvimento Full Stack<br>
 
 <div>
-  <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nymeria9212)](https://github.com/Nymeria9212/github-readme-stats)">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nymeria9212&hide=contribs,prs)"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nymeria9212&count_private=true">
+      <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymeria9212">
 </div>
+<div>
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img height="45em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
 
 
 
 Experiência na construção de projetos com as seguintes tecnologias: Html5, Css3, JavaScript, React-Js, Typescript, PostgreSQL e TypeORM, NodeJs com Express. Vivências em utilização de Metodologia ágil. Familiaridade com conceitos de Kanban, gestão de projetos. Noções de NextJs. Disposta a aprender novas tecnologias.
 
+<b>Alguns dos meus projetos desenvolvidos até agora</b><br>
 <b><a href="https://github.com/Kenzie-Academy-Brasil-Developers/nukenzie-react-jessica">NuKenzie</a></b>  <br>
 Aplicação que simula um aplicativo de finanças pessoais. Com entradas e saídas, divididas por categorias, dando como resultado o saldo do usuário.
 Tecnologias utilizadas: JavaScript, Css3, ReactJs
