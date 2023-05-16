@@ -3,11 +3,6 @@ Desenvolvedora Front End<br>
 Estudando Desenvolvimento Full Stack<br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nymeria9212&count_private=true">
-      <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymeria9212">
-</div>
-
-<div>
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
