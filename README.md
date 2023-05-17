@@ -19,7 +19,8 @@ Estudando Desenvolvimento Full Stack<br>
 
 
 
-Experiência na construção de projetos com as seguintes tecnologias: Html5, Css3, JavaScript, React-Js, Typescript, PostgreSQL e TypeORM, NodeJs com Express. Vivências em utilização de Metodologia ágil. Familiaridade com conceitos de Kanban, gestão de projetos. Noções de NextJs. Disposta a aprender novas tecnologias.
+Experiência na construção de projetos com as seguintes tecnologias, Html5, Css3, Web Semántica, Lógica de programação, JavaScript (ES6),Noções de UX, React-Js,Hooks,Consumo de APIs, Typescript, PostgreSQL e TypeORM, NodeJs ,Express,controle de versão git, Github ,noções básicas de NextJs.
+Vivências em utilização de metodologias ágeis como Kanban, Trello. Conhecimentos em gestão de projetos. 
 
 <b>Alguns dos meus projetos desenvolvidos até agora</b><br>
 <b><a href="https://github.com/Kenzie-Academy-Brasil-Developers/nukenzie-react-jessica">NuKenzie</a></b>  <br>
