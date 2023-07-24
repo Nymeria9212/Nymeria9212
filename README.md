@@ -12,8 +12,8 @@ Concluindo meus estudos em Desenvolvimento Full Stack<br>
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height="45em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="45em"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img heigth="45px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg"/>
-  <img heigth="10px" width="45px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
+  <img heigth="45px" width="45em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg"/>
+  <img heigth="10px" width="45em" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg"/>
   
 </div>
 
