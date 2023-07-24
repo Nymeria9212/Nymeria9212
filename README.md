@@ -1,6 +1,6 @@
 <b>Olá! Eu sou a Jéssica Estevam</b>👋<br>
-Desenvolvedora Front End<br>
-Estudando Desenvolvimento Full Stack<br>
+Desenvolvedora Full Stack<br>
+Concluindo meus estudos em Desenvolvimento Full Stack<br>
 
 <div>
   <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
