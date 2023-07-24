@@ -19,7 +19,7 @@ Concluindo meus estudos em Desenvolvimento Full Stack<br>
 
 
 
-Experiência na construção de projetos com as seguintes tecnologias, Html5, Css3, Web Semántica, Lógica de programação, JavaScript (ES6),Noções de UX, React-Js,Hooks,Consumo de APIs, Typescript, PostgreSQL e TypeORM, NodeJs ,Express,controle de versão git, Github ,noções básicas de NextJs.
+Experiência na construção de projetos com as seguintes tecnologias, Html5, Css3, Web Semántica, Lógica de programação, JavaScript (ES6),Noções de UX, React-Js,Hooks,Consumo de APIs, Typescript, PostgreSQL e TypeORM, NodeJs ,Express,Django, Python, controle de versão git, Github ,noções básicas de NextJs.
 Vivências em utilização de metodologias ágeis como Kanban, Trello. Conhecimentos em gestão de projetos. 
 
 
