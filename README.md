@@ -1,7 +1,9 @@
 <b>Olá! Eu sou a Jéssica Estevam</b>👋<br>
 Desenvolvedora Full Stack<br>
-Concluindo meus estudos em Desenvolvimento Full Stack<br>
-
+Tenho 30 anos, sou casada, sou mãe de pet (o Romeu), amo ler livros, gamer (mais noob impossivel) nas horas vagas, <br/>
+adoro um bom filme, sou acumuladora de séries e uma boa apreciadora de comida boa. <br/>
+Já desenvolvi alguns projetos em Front End, Back End e Full Stack. Aqui estão algumas das tecnologias que já usei, <br/>
+mas tenho me aventurado em aprender outras também.
 <div>
   
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
