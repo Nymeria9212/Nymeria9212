@@ -1,6 +1,6 @@
 <b>Olá! Eu sou a Jéssica Estevam</b>👋<br>
 Desenvolvedora Full Stack<br>
-Tenho 30 anos, casada, mãe de pet (o Romeu), amo ler livros, gamer (mais noob impossivel) nas horas vagas, <br/>
+Tenho 31 anos, casada, mãe de pet (o Romeu), amo ler livros, gamer (mais noob impossivel) nas horas vagas, <br/>
 adoro um bom filme, sou acumuladora de séries e adoro me aventurar na cozinha. <br/>
 Já desenvolvi alguns projetos em Front End, Back End e Full Stack. Aqui estão algumas das tecnologias que já usei, <br/>
 mas tenho me aventurado em aprender outras também.
