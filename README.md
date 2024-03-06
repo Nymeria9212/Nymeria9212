@@ -15,6 +15,7 @@ mas tenho me aventurado em aprender outras também.
 ![Express](https://img.shields.io/badge/Express-%23121011.svg?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23121011.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23121011.svg?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23121011.svg?style=for-the-badge&logo=angular&logoColor=white)
   
 </div>
 
