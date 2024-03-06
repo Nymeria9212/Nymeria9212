@@ -21,7 +21,7 @@ mas tenho me aventurado em aprender outras também.
 
 
 
-Experiência na construção de projetos com as seguintes tecnologias, Html5, Css3, Web Semántica, Lógica de programação, JavaScript (ES6),Noções de UX, React-Js,Hooks,Consumo de APIs, Typescript, PostgreSQL e TypeORM, NodeJs ,Express,Django, Python, controle de versão git, Github ,noções básicas de NextJs.
+Experiência na construção de projetos com as seguintes tecnologias, Html5, Css3, Web Semántica, Lógica de programação, JavaScript (ES6),Noções de UX, React-Js,Hooks,Consumo de APIs, Typescript,Angular, PostgreSQL e TypeORM, NodeJs ,Express,Django, Python, controle de versão git, Github ,noções básicas de NextJs.
 Vivências em utilização de metodologias ágeis como Kanban, Trello. Conhecimentos em gestão de projetos. 
 <br/>
 Atualmente estudando Angular, Java, Vue.js, Ciência de dados com Python( MySql com Python), Next.js e Nest.js.
