@@ -1,7 +1,7 @@
 <b>Olá! Eu sou a Jéssica Estevam</b>👋<br>
 Desenvolvedora Full Stack<br>
-Já desenvolvi alguns projetos em Front End, Back End e Full Stack. Aqui estão algumas das tecnologias que já usei, <br/>
-mas tenho me aventurado em aprender outras também.
+CERTIFICADA EM DESENVOLVIMENTO FULL STACK PELA KENZIE ACADEMY BRASIL
+COM FORMAÇÃO EM TECNÓLOGO EM PROCESSOS GERENCIAIS
 <div>
   
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,10 +21,7 @@ mas tenho me aventurado em aprender outras também.
 
 
 
-Experiência na construção de projetos com as seguintes tecnologias, Html5, Css3, Web Semántica, Lógica de programação, JavaScript (ES6),Noções de UX, React-Js,Hooks,Consumo de APIs, Typescript,Angular, PostgreSQL e TypeORM, NodeJs ,Express,Django, Python, controle de versão git, Github ,noções básicas de NextJs.
-Vivências em utilização de metodologias ágeis como Kanban, Trello. Conhecimentos em gestão de projetos. 
-<br/>
-Atualmente estudando Angular, Java, Vue.js, Ciência de dados com Python( MySql com Python), Next.js e Nest.js.
+
 
 
 
