@@ -6,7 +6,7 @@
 🔭 Atualmente focada em:<br>
      - Aprimorar minhas habilidades em Desenvolvimento Web e Full Stack.<br>
      - Explorar Inteligência Artificial e Ciência de Dados.<br>
-     - Contribuir para projetos open source e colaborar com a comunidade.<br>
+     
 
 🎓 Formação:<br>
     - Tecnólogo em Processos Gerenciais.<br>
