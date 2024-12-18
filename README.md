@@ -1,7 +1,7 @@
 <b>Olá! Eu sou a Jéssica Estevam</b>👋<br>
 Desenvolvedora Full Stack<br>
 CERTIFICADA EM DESENVOLVIMENTO FULL STACK PELA KENZIE ACADEMY BRASIL <br>
-COM FORMAÇÃO EM TECNÓLOGO EM PROCESSOS GERENCIAIS
+COM FORMAÇÃO EM TECNÓLOGO EM PROCESSOS GERENCIAIS E ESTUDANTE DE CIÊNCIAS DA COMPUTAÇÃO
 <div>
   
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
