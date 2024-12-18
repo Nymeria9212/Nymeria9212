@@ -1,7 +1,16 @@
 <b>Olá! Eu sou a Jéssica Estevam</b>👋<br>
-Desenvolvedora Full Stack<br>
-CERTIFICADA EM DESENVOLVIMENTO FULL STACK PELA KENZIE ACADEMY BRASIL <br>
-COM FORMAÇÃO EM TECNÓLOGO EM PROCESSOS GERENCIAIS E ESTUDANTE DE CIÊNCIAS DA COMPUTAÇÃO
+<p>Apaixonada por tecnologia e em transição de carreira para a área tech.</p> 
+<p>Atualmente, sou estudante de Ciências da Computação e certificada em Desenvolvimento Full Stack. </p>
+<p>Minha trajetória começou com uma curiosidade por resolver problemas e criar soluções inovadoras. Hoje, dedico-me a aprender e construir projetos que fazem a diferença.</p>
+
+🔭 Atualmente focada em:<br>
+     - Aprimorar minhas habilidades em Desenvolvimento Web e Full Stack.<br>
+     - Explorar Inteligência Artificial e Ciência de Dados.<br>
+     - Contribuir para projetos open source e colaborar com a comunidade.<br>
+
+🎓 Formação:<br>
+    - Tecnólogo em Processos Gerenciais.<br>
+    - Estudante de Ciências da Computação.<br>
 <div>
   
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
